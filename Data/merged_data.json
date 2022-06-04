@@ -1,0 +1,6302 @@
+[
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 16667
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 439400
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 16667
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 583783.6
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 16667
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 145373.54
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 151376
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 439400
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 151376
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 583783.6
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 151376
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 145373.54
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 16766
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 439400
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 16766
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 583783.6
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 16766
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 145373.54
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 41821
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 439400
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 41821
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 583783.6
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 41821
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 145373.54
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 14659
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 439400
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 14659
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 583783.6
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 14659
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 145373.54
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 24883
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 439400
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 24883
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 583783.6
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 24883
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 145373.54
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 16344
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 439400
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 16344
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 583783.6
+},
+ {
+   "Year": 1990,
+   "mean rainfall": 33.43,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 16344
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 145373.54
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 29032
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 462300
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 29032
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 685938.17
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 29032
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 142074.14
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 141534
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 462300
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 141534
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 685938.17
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 141534
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 142074.14
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 17094
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 462300
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 17094
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 685938.17
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 17094
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 142074.14
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 39938
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 462300
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 39938
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 685938.17
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 39938
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 142074.14
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 14567
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 462300
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 14567
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 685938.17
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 14567
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 142074.14
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 19865
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 462300
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 19865
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 685938.17
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 19865
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 142074.14
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 14698
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 462300
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 14698
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 685938.17
+},
+ {
+   "Year": 1991,
+   "mean rainfall": 38.25,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 14698
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 142074.14
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 24359
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 488200
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 24359
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 788899.48
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 24359
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 147373.17
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 160457
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 488200
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 160457
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 788899.48
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 160457
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 147373.17
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 18313
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 488200
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 18313
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 788899.48
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 18313
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 147373.17
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 51721
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 488200
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 51721
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 788899.48
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 51721
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 147373.17
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 16853
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 488200
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 16853
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 788899.48
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 16853
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 147373.17
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 25431
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 488200
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 25431
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 788899.48
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 25431
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 147373.17
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 17812
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 488200
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 17812
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 788899.48
+},
+ {
+   "Year": 1992,
+   "mean rainfall": 36.11,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 17812
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 147373.17
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 21739
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 565400
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 21739
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 776495.72
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 21739
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 176067.95
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 166392
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 565400
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 166392
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 776495.72
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 166392
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 176067.95
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 19472
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 565400
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 19472
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 776495.72
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 19472
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 176067.95
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 44261
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 565400
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 44261
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 776495.72
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 44261
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 176067.95
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 17392
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 565400
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 17392
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 776495.72
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 17392
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 176067.95
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 12834
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 565400
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 12834
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 776495.72
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 12834
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 176067.95
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 19658
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 565400
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 19658
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 776495.72
+},
+ {
+   "Year": 1993,
+   "mean rainfall": 39.47,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 19658
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 176067.95
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 23555
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 583200
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 23555
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 930483.9
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 23555
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 219560.03
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 155639
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 583200
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 155639
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 930483.9
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 155639
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 219560.03
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 11792
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 583200
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 11792
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 930483.9
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 11792
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 219560.03
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 46620
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 583200
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 46620
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 930483.9
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 46620
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 219560.03
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 10301
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 583200
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 10301
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 930483.9
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 10301
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 219560.03
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 21697
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 583200
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 21697
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 930483.9
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 21697
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 219560.03
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 11356
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 583200
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 11356
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 930483.9
+},
+ {
+   "Year": 1994,
+   "mean rainfall": 27.34,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 11356
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 219560.03
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 26596
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 671300
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 26596
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 973443.27
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 26596
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 230757.99
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 160281
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 671300
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 160281
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 973443.27
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 160281
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 230757.99
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 18719
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 671300
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 18719
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 973443.27
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 18719
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 230757.99
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 48263
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 671300
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 48263
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 973443.27
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 48263
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 230757.99
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 16505
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 671300
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 16505
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 973443.27
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 16505
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 230757.99
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 18555
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 671300
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 18555
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 973443.27
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 18555
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 230757.99
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 17899
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 671300
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 17899
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 973443.27
+},
+ {
+   "Year": 1995,
+   "mean rainfall": 41.7,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 17899
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 230757.99
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 27484
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 824600
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 27484
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 993611.99
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 27484
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 205962.51
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 141847
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 824600
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 141847
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 993611.99
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 141847
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 205962.51
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 19887
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 824600
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 19887
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 993611.99
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 19887
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 205962.51
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 57689
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 824600
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 57689
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 993611.99
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 57689
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 205962.51
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 15713
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 824600
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 15713
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 993611.99
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 15713
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 205962.51
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 20677
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 824600
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 20677
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 993611.99
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 20677
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 205962.51
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 21673
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 824600
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 21673
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 993611.99
+},
+ {
+   "Year": 1996,
+   "mean rainfall": 37.62,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 21673
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 205962.51
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 31250
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 839400
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 31250
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1099296.08
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 31250
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 254553.66
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 178724
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 839400
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 178724
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1099296.08
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 178724
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 254553.66
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 18410
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 839400
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 18410
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1099296.08
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 18410
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 254553.66
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 59403
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 839400
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 59403
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1099296.08
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 59403
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 254553.66
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 17439
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 839400
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 17439
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1099296.08
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 17439
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 254553.66
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 26195
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 839400
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 26195
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1099296.08
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 26195
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 254553.66
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 18412
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 839400
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 18412
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1099296.08
+},
+ {
+   "Year": 1997,
+   "mean rainfall": 40.55,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 18412
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 254553.66
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 36082
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 979000
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 36082
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1047765
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 36082
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 231957.78
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 156304
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 979000
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 156304
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1047765
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 156304
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 231957.78
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 18904
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 979000
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 18904
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1047765
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 18904
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 231957.78
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 47544
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 979000
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 47544
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1047765
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 47544
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 231957.78
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 19780
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 979000
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 19780
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1047765
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 19780
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 231957.78
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 21321
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 979000
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 21321
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1047765
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 21321
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 231957.78
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 19153
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 979000
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 19153
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1047765
+},
+ {
+   "Year": 1998,
+   "mean rainfall": 44.91,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 19153
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 231957.78
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 36000
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1082000
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 36000
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1063899.98
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 36000
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 215960.69
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 169207
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1082000
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 169207
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1063899.98
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 169207
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 215960.69
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 19479
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1082000
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 19479
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1063899.98
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 19479
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 215960.69
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 51212
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1082000
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 51212
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1063899.98
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 51212
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 215960.69
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 19144
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1082000
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 19144
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1063899.98
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 19144
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 215960.69
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 32215
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1082000
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 32215
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1063899.98
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 32215
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 215960.69
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 20066
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1082000
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 20066
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1063899.98
+},
+ {
+   "Year": 1999,
+   "mean rainfall": 45.99,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 20066
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 215960.69
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 35959
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 951000
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 35959
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1116338.65
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 35959
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 216960.51
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 162260
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 951000
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 162260
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1116338.65
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 162260
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 216960.51
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 19522
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 951000
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 19522
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1116338.65
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 19522
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 216960.51
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 49360
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 951000
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 49360
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1116338.65
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 49360
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 216960.51
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 16154
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 951000
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 16154
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1116338.65
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 16154
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 216960.51
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 34003
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 951000
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 34003
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1116338.65
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 34003
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 216960.51
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 18209
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 951000
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 18209
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1116338.65
+},
+ {
+   "Year": 2000,
+   "mean rainfall": 55.88,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 18209
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 216960.51
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 93185
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1034000
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 93185
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1197013.53
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 93185
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 241955.96
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 121067
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1034000
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 121067
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1197013.53
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 121067
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 241955.96
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 19523
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1034000
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 19523
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1197013.53
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 19523
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 241955.96
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 46471
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1034000
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 46471
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1197013.53
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 46471
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 241955.96
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 16139
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1034000
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 16139
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1197013.53
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 16139
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 241955.96
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 25539
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1034000
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 25539
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1197013.53
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 25539
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 241955.96
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 18209
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1034000
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 18209
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1197013.53
+},
+ {
+   "Year": 2001,
+   "mean rainfall": 43.71,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 18209
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 241955.96
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 75541
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 972266
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 75541
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1078107.47
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 75541
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 215566.78
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 131938
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 972266
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 131938
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1078107.47
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 131938
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 215566.78
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 22333
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 972266
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 22333
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1078107.47
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 22333
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 215566.78
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 54929
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 972266
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 54929
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1078107.47
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 54929
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 215566.78
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 18284
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 972266
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 18284
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1078107.47
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 18284
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 215566.78
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 24561
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 972266
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 24561
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1078107.47
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 24561
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 215566.78
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 21076
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 972266
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 21076
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1078107.47
+},
+ {
+   "Year": 2002,
+   "mean rainfall": 26.74,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 21076
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 215566.78
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 62447
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 932911
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 62447
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1020122.4
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 62447
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 220720.06
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 155272
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 932911
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 155272
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1020122.4
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 155272
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 220720.06
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 10003
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 932911
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 10003
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1020122.4
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 10003
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 220720.06
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 62570
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 932911
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 62570
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1020122.4
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 62570
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 220720.06
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 10501
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 932911
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 10501
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1020122.4
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 10501
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 220720.06
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 21966
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 932911
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 21966
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1020122.4
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 21966
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 220720.06
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 9070
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 932911
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 9070
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1020122.4
+},
+ {
+   "Year": 2003,
+   "mean rainfall": 37.74,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 9070
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 220720.06
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 50069
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1056527
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 50069
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1116984.97
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 50069
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 258764.94
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 139162
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1056527
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 139162
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1116984.97
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 139162
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 258764.94
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 23189
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1056527
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 23189
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1116984.97
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 23189
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 258764.94
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 56326
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1056527
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 56326
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1116984.97
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 56326
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 258764.94
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 18527
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1056527
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 18527
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1116984.97
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 18527
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 258764.94
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 27367
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1056527
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 27367
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1116984.97
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 27367
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 258764.94
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 19998
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1056527
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 19998
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1116984.97
+},
+ {
+   "Year": 2004,
+   "mean rainfall": 39.38,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 19998
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 258764.94
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 63799
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 952174
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 63799
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1041739.6
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 63799
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 222064.4
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 220805
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 952174
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 220805
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1041739.6
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 220805
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 222064.4
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 16660
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 952174
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 16660
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1041739.6
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 16660
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 222064.4
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 57983
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 952174
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 57983
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1041739.6
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 57983
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 222064.4
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 14352
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 952174
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 14352
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1041739.6
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 14352
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 222064.4
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 26629
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 952174
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 26629
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1041739.6
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 26629
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 222064.4
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 16348
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 952174
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 16348
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 1041739.6
+},
+ {
+   "Year": 2005,
+   "mean rainfall": 33.71,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 16348
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 222064.4
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 50158
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 858103
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 50158
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 992262.06
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 50158
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 223507.51
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 150626
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 858103
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 150626
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 992262.06
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 150626
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 223507.51
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 21521
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 858103
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 21521
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 992262.06
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 21521
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 223507.51
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 53856
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 858103
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 53856
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 992262.06
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 53856
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 223507.51
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 18145
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 858103
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 18145
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 992262.06
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 18145
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 223507.51
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 25205
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 858103
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 25205
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 992262.06
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 25205
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 223507.51
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 20213
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 858103
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 20213
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 992262.06
+},
+ {
+   "Year": 2006,
+   "mean rainfall": 38.03,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 20213
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 223507.51
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 62393
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 848006
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 62393
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 990348.33
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 62393
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 227347.77
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 188990
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 848006
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 188990
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 990348.33
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 188990
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 227347.77
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 10179
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 848006
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 10179
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 990348.33
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 10179
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 227347.77
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 49103
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 848006
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 49103
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 990348.33
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 49103
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 227347.77
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 7463
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 848006
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 7463
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 990348.33
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 7463
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 227347.77
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 20918
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 848006
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 20918
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 990348.33
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 20918
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 227347.77
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 9173
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 848006
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 9173
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 990348.33
+},
+ {
+   "Year": 2007,
+   "mean rainfall": 41,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 9173
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 227347.77
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 47782
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 835018
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 47782
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 825184.84
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 47782
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 213618.95
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 161475
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 835018
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 161475
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 825184.84
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 161475
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 213618.95
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 14607
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 835018
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 14607
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 825184.84
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 14607
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 213618.95
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 56912
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 835018
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 56912
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 825184.84
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 56912
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 213618.95
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 12137
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 835018
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 12137
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 825184.84
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 12137
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 213618.95
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 40252
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 835018
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 40252
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 825184.84
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 40252
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 213618.95
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 10788
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 835018
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 10788
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 825184.84
+},
+ {
+   "Year": 2008,
+   "mean rainfall": 37.98,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 10788
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 213618.95
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 46035
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 849785
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 46035
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 647005.66
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 46035
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 156890.72
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 134152
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 849785
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 134152
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 647005.66
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 134152
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 156890.72
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 15945
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 849785
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 15945
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 647005.66
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 15945
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 156890.72
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 58171
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 849785
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 58171
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 647005.66
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 58171
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 156890.72
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 13329
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 849785
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 13329
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 647005.66
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 13329
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 156890.72
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 35096
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 849785
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 35096
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 647005.66
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 35096
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 156890.72
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 15831
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 849785
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 15831
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 647005.66
+},
+ {
+   "Year": 2009,
+   "mean rainfall": 36.56,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 15831
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 156890.72
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 36181
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 981787
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 36181
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 823642.39
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 36181
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 166121.57
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 157457
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 981787
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 157457
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 823642.39
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 157457
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 166121.57
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 17787
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 981787
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 17787
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 823642.39
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 17787
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 166121.57
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 55593
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 981787
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 55593
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 823642.39
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 55593
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 166121.57
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 13665
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 981787
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 13665
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 823642.39
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 13665
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 166121.57
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 30279
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 981787
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 30279
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 823642.39
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 30279
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 166121.57
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 15729
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 981787
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 15729
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 823642.39
+},
+ {
+   "Year": 2010,
+   "mean rainfall": 53.48,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 15729
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 166121.57
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 32300
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1098921
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 32300
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 880364.63
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 32300
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 179619.11
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159541
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1098921
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159541
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 880364.63
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159541
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 179619.11
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 21719
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1098921
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 21719
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 880364.63
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 21719
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 179619.11
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 57390
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1098921
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 57390
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 880364.63
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 57390
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 179619.11
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 13652
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1098921
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 13652
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 880364.63
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 13652
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 179619.11
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 30558
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1098921
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 30558
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 880364.63
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 30558
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 179619.11
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 20301
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1098921
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 20301
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 880364.63
+},
+ {
+   "Year": 2011,
+   "mean rainfall": 55.14,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 20301
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 179619.11
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 41907
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1124607
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 41907
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 883685.59
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 41907
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 188033.24
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 160093
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1124607
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 160093
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 883685.59
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 160093
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 188033.24
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 22109
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1124607
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 22109
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 883685.59
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 22109
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 188033.24
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 64654
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1124607
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 64654
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 883685.59
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 64654
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 188033.24
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 17261
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1124607
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 17261
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 883685.59
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 17261
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 188033.24
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 33960
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1124607
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 33960
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 883685.59
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 33960
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 188033.24
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 21511
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1124607
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 21511
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 883685.59
+},
+ {
+   "Year": 2012,
+   "mean rainfall": 38.22,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 21511
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 188033.24
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 56531
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1222075
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 56531
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 842369.51
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 56531
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 209544.99
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 160354
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1222075
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 160354
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 842369.51
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 160354
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 209544.99
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 20502
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1222075
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 20502
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 842369.51
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 20502
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 209544.99
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 64441
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1222075
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 64441
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 842369.51
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 64441
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 209544.99
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 15388
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1222075
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 15388
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 842369.51
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 15388
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 209544.99
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 34419
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1222075
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 34419
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 842369.51
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 34419
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 209544.99
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 17609
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1222075
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 17609
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 842369.51
+},
+ {
+   "Year": 2013,
+   "mean rainfall": 34.84,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 17609
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 209544.99
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 54337
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1404588
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 54337
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 908282.26
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 54337
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 231506.05
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159705
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1404588
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159705
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 908282.26
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159705
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 231506.05
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 24054
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1404588
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 24054
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 908282.26
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 24054
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 231506.05
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 74554
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1404588
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 74554
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 908282.26
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 74554
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 231506.05
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 17555
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1404588
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 17555
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 908282.26
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 17555
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 231506.05
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 24099
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1404588
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 24099
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 908282.26
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 24099
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 231506.05
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 20061
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1404588
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 20061
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 908282.26
+},
+ {
+   "Year": 2014,
+   "mean rainfall": 37.65,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 20061
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 231506.05
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 55090
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1302762
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 55090
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 928054.48
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 55090
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 239894.89
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159496
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1302762
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159496
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 928054.48
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159496
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 239894.89
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 21202
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1302762
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 21202
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 928054.48
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 21202
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 239894.89
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 83001
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1302762
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 83001
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 928054.48
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 83001
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 239894.89
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 14021
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1302762
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 14021
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 928054.48
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 14021
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 239894.89
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 30160
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1302762
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 30160
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 928054.48
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 30160
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 239894.89
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 19172
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1302762
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 19172
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 928054.48
+},
+ {
+   "Year": 2015,
+   "mean rainfall": 35.14,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 19172
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 239894.89
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 61170
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1474114
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 61170
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 948200.28
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 61170
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 255367.97
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159616
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1474114
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159616
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 948200.28
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159616
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 255367.97
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 21892
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1474114
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 21892
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 948200.28
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 21892
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 255367.97
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 75080
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1474114
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 75080
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 948200.28
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 75080
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 255367.97
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 15821
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1474114
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 15821
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 948200.28
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 15821
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 255367.97
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 34399
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1474114
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 34399
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 948200.28
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 34399
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 255367.97
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 19743
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1474114
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 19743
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 948200.28
+},
+ {
+   "Year": 2016,
+   "mean rainfall": 44.84,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 19743
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 255367.97
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 63513
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1493809
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 63513
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 979986.65
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 63513
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 273126.19
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159448
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1493809
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159448
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 979986.65
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159448
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 273126.19
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 27939
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1493809
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 27939
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 979986.65
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 27939
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 273126.19
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 64363
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1493809
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 64363
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 979986.65
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 64363
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 273126.19
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 22041
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1493809
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 22041
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 979986.65
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 22041
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 273126.19
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 27017
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1493809
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 27017
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 979986.65
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 27017
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 273126.19
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 26100
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1493809
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 26100
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 979986.65
+},
+ {
+   "Year": 2017,
+   "mean rainfall": 38.71,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 26100
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 273126.19
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 55164
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1411216
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 55164
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 954830.75
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 55164
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 293693.53
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159271
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1411216
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159271
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 954830.75
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159271
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 293693.53
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 22438
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1411216
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 22438
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 954830.75
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 22438
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 293693.53
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 73365
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1411216
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 73365
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 954830.75
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 73365
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 293693.53
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 14046
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1411216
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 14046
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 954830.75
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 14046
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 293693.53
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 27201
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1411216
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 27201
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 954830.75
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 27201
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 293693.53
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 19178
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1411216
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 19178
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 954830.75
+},
+ {
+   "Year": 2018,
+   "mean rainfall": 32.54,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 19178
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 293693.53
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 55932
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1337593
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 55932
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 957503.11
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Almonds",
+   "Value(hg": {
+      "ha)": 55932
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 288016.25
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159288
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1337593
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159288
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 957503.11
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Apples",
+   "Value(hg": {
+      "ha)": 159288
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 288016.25
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 19878
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1337593
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 19878
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 957503.11
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Barley",
+   "Value(hg": {
+      "ha)": 19878
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 288016.25
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 55507
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1337593
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 55507
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 957503.11
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Maize",
+   "Value(hg": {
+      "ha)": 55507
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 288016.25
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 12094
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1337593
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 12094
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 957503.11
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Oats",
+   "Value(hg": {
+      "ha)": 12094
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 288016.25
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 21089
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1337593
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 21089
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 957503.11
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Sorghum",
+   "Value(hg": {
+      "ha)": 21089
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 288016.25
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 16917
+   },
+   "Fertilizer": "N",
+   "Value(tonnes)": 1337593
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 16917
+   },
+   "Fertilizer": "P",
+   "Value(tonnes)": 957503.11
+},
+ {
+   "Year": 2019,
+   "mean rainfall": 22.51,
+   "Crop": "Wheat",
+   "Value(hg": {
+      "ha)": 16917
+   },
+   "Fertilizer": "K",
+   "Value(tonnes)": 288016.25
+}
+]
